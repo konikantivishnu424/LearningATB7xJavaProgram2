@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7e547dce-11bf-4b90-8c23-c7c8ef74472c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LearningATB7xJavaProgram.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LearningATB7xJavaProgram2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.MD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_07072024/$Lab012.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_07072024/Lab001.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_07072024/Lab002.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_07072024/Lab002.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_07072024/Lab003.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_07072024/Lab004.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_07072024/Lab005.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_07072024/Lab006.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_07072024/Lab007.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_07072024/Lab008.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_07072024/Lab009.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_07072024/Lab010.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_07072024/Lab011.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_07072024/Lab013.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_07072024/Lab014.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_07072024/Lab015.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_07072024/Lab016.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13072024/Lab0016.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13072024/Lab0025.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13072024/Lab0031.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13072024/Lab015.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13072024/Lab017.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13072024/Lab018.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13072024/Lab019.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13072024/Lab020.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13072024/Lab021.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13072024/Lab022.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13072024/Lab023.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13072024/Lab024.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13072024/Lab026.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13072024/Lab027.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13072024/Lab028.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13072024/Lab029.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ex_13072024/Lab030.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "konikantivishnu424"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/konikantivishnu424/LearningATB7xJavaProgram1.git",
+    "accountId": "e0713011-4a88-4f60-8cb6-788baf2e3679"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2jNZed42z9r1yYrSvooIaa26zKa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Lab001.executor": "Run",
+    "Application.Lab002.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.Lab002">
+    <configuration name="Lab001" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_07072024.Lab001" />
+      <module name="LearningATB7xJavaProgram2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_07072024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab002" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_07072024.Lab002" />
+      <module name="LearningATB7xJavaProgram2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_07072024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="LearningATB7xJavaProgram2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="LearningATB7xJavaProgram2" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Lab002" />
+        <item itemvalue="Application.Lab001" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e547dce-11bf-4b90-8c23-c7c8ef74472c" name="Changes" comment="" />
+      <created>1721229594628</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721229594628</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/ex_07072024/Lab002.java</url>
+          <line>3</line>
+          <properties class="ex_07072024.Lab002" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
