@@ -21,6 +21,5 @@ public class Lab026 {
         System.out.println(x+y+s3);
 
         System.out.println(x+y+s3+y+s3+x+y);
-
     }
 }
