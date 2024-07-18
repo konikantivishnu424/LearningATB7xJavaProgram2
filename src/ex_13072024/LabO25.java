@@ -19,5 +19,6 @@ public class LabO25 {
         System.out.println(x+y+s3);
         System.out.println(x+s3+y);
         System.out.println(s3+x+y);
+        System.out.println(x+y+s3+y+s3+x+y);
     }
 }
