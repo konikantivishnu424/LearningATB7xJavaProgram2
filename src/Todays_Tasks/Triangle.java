@@ -2,11 +2,28 @@ package Todays_Tasks;
 
 import java.util.Scanner;
 
-public class TasksFOrToday {
+public class Triangle {
     public static void main(String[] args) {
-        //All sides are Equal means Equalaeral Triangle
-        //only two sides are Equal means Isosceles Triangle
-        //All sides are Different means Scalene Triangle
+        //✅ Triangle Classifier:
+// Write a program that classifies a triangle based on its side lengths.
+
+// Given three input values representing the lengths of the sides, determine
+
+
+
+// if the triangle is equilateral (all sides are equal),
+
+// isosceles (exactly two sides are equal), or
+
+// scalene (no sides are equal).
+
+// Use an if-else statement to classify the triangle.
+
+
+
+// side1, side2, side3 ->
+
+
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter Side 1 value");
         int side1 = sc.nextInt();
