@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e547dce-11bf-4b90-8c23-c7c8ef74472c" name="Changes" comment="New Files are added">
-      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab044.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab045.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Todays_Tasks/FizzBuzzProgram.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Todays_Tasks/LeapYear.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Todays_Tasks/TasksFOrToday.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab046.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +51,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.FizzBuzzProgram.executor": "Run",
     "Application.Lab001.executor": "Run",
     "Application.Lab0016.executor": "Run",
     "Application.Lab0017.executor": "Run",
@@ -68,7 +71,10 @@
     "Application.Lab041.executor": "Run",
     "Application.Lab043.executor": "Run",
     "Application.Lab044.executor": "Run",
+    "Application.Lab045.executor": "Run",
     "Application.LabO25.executor": "Run",
+    "Application.LeapYear.executor": "Debug",
+    "Application.TasksFOrToday.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -77,39 +83,13 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab045">
-    <configuration name="Lab040" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_13072024.Lab040" />
+  <component name="RunManager" selected="Application.FizzBuzzProgram">
+    <configuration name="FizzBuzzProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Todays_Tasks.FizzBuzzProgram" />
       <module name="LearningATB7xJavaProgram2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_13072024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab041" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_13072024.Lab041" />
-      <module name="LearningATB7xJavaProgram2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_13072024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Lab043" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_13072024.Lab043" />
-      <module name="LearningATB7xJavaProgram2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_13072024.*" />
+          <option name="PATTERN" value="Todays_Tasks.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,13 +123,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="LeapYear" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Todays_Tasks.LeapYear" />
+      <module name="LearningATB7xJavaProgram2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Todays_Tasks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TasksFOrToday" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Todays_Tasks.TasksFOrToday" />
+      <module name="LearningATB7xJavaProgram2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Todays_Tasks.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FizzBuzzProgram" />
+        <item itemvalue="Application.LeapYear" />
+        <item itemvalue="Application.TasksFOrToday" />
         <item itemvalue="Application.Lab045" />
         <item itemvalue="Application.Lab044" />
-        <item itemvalue="Application.Lab043" />
-        <item itemvalue="Application.Lab041" />
-        <item itemvalue="Application.Lab040" />
       </list>
     </recent_temporary>
   </component>
@@ -298,7 +304,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721447654640</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="New Files are added">
+      <option name="closed" value="true" />
+      <created>1721448116566</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1721448116566</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
