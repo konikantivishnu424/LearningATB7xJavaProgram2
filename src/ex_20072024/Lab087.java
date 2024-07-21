@@ -16,10 +16,15 @@ public class Lab087 {
         //3.Do we need Conversion or Directly
         //4.Rough Logic  num%2==0 even,odd
         //5.Optimise
+
+
         Scanner sc = new Scanner(System.in);
-        System.out.println("Enter Your Number");
-        int user_input=sc.nextInt();
-        System.out.println(user_input);
+        System.out.println("Enter Your Number 1");
+        int user_input =sc.nextInt();
+
+        System.out.println("Enter Your Number 2");
+        int user_input_2=sc.nextInt();
+
         if (user_input%2==0){
             System.out.println("Even");
         }else{
