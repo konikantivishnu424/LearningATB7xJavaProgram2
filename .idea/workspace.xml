@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e547dce-11bf-4b90-8c23-c7c8ef74472c" name="Changes" comment="OR Gate program">
-      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab048.java" afterDir="false" />
+    <list default="true" id="7e547dce-11bf-4b90-8c23-c7c8ef74472c" name="Changes" comment="And  Gate program">
+      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab049.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,7 +91,7 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab047">
+  <component name="RunManager" selected="Application.Lab049">
     <configuration name="Lab047" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_13072024.Lab047" />
       <module name="LearningATB7xJavaProgram2" />
@@ -104,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab088" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_20072024.Lab088" />
+    <configuration name="Lab049" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_13072024.Lab049" />
       <module name="LearningATB7xJavaProgram2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_20072024.*" />
+          <option name="PATTERN" value="ex_13072024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -158,11 +159,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab049" />
         <item itemvalue="Application.Lab047" />
         <item itemvalue="Application.Lab091" />
         <item itemvalue="Application.Lab90" />
         <item itemvalue="Application.Lab089" />
-        <item itemvalue="Application.Lab088" />
       </list>
     </recent_temporary>
   </component>
@@ -399,7 +400,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721698907214</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="And  Gate program">
+      <option name="closed" value="true" />
+      <created>1721699265202</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1721699265202</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -408,7 +417,8 @@
     <MESSAGE value="20-JULY TASK" />
     <MESSAGE value="using not and Greater operations" />
     <MESSAGE value="OR Gate program" />
-    <option name="LAST_COMMIT_MESSAGE" value="OR Gate program" />
+    <MESSAGE value="And  Gate program" />
+    <option name="LAST_COMMIT_MESSAGE" value="And  Gate program" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
