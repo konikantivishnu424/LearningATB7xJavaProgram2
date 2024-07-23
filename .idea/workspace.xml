@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e547dce-11bf-4b90-8c23-c7c8ef74472c" name="Changes" comment="20-JULY TASK">
-      <change afterPath="$PROJECT_DIR$/src/ex_13072024/Lab047.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab0106.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ex_13072024/Lab046.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_13072024/Lab046.java" afterDir="false" />
+    <list default="true" id="7e547dce-11bf-4b90-8c23-c7c8ef74472c" name="Changes" comment="using not and Greater operations">
+      <change beforePath="$PROJECT_DIR$/src/ex_13072024/Lab047.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ex_13072024/Lab047.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,13 +89,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Lab091">
-    <configuration name="Lab087" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_20072024.Lab087" />
+  <component name="RunManager" selected="Application.Lab047">
+    <configuration name="Lab047" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_13072024.Lab047" />
       <module name="LearningATB7xJavaProgram2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ex_20072024.*" />
+          <option name="PATTERN" value="ex_13072024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -160,11 +157,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab047" />
         <item itemvalue="Application.Lab091" />
         <item itemvalue="Application.Lab90" />
         <item itemvalue="Application.Lab089" />
         <item itemvalue="Application.Lab088" />
-        <item itemvalue="Application.Lab087" />
       </list>
     </recent_temporary>
   </component>
@@ -385,14 +382,23 @@
       <option name="project" value="LOCAL" />
       <updated>1721534780119</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="using not and Greater operations">
+      <option name="closed" value="true" />
+      <created>1721698680114</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1721698680115</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="All Files are Added" />
     <MESSAGE value="New Files are added" />
     <MESSAGE value="20-JULY TASK" />
-    <option name="LAST_COMMIT_MESSAGE" value="20-JULY TASK" />
+    <MESSAGE value="using not and Greater operations" />
+    <option name="LAST_COMMIT_MESSAGE" value="using not and Greater operations" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
