@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e547dce-11bf-4b90-8c23-c7c8ef74472c" name="Changes" comment="Multiple opeartor Program">
-      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab051.java" afterDir="false" />
+    <list default="true" id="7e547dce-11bf-4b90-8c23-c7c8ef74472c" name="Changes" comment="Different types of operator">
+      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab052.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -417,7 +417,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721699657703</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Different types of operator">
+      <option name="closed" value="true" />
+      <created>1721700362736</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1721700362736</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -428,7 +436,8 @@
     <MESSAGE value="OR Gate program" />
     <MESSAGE value="And  Gate program" />
     <MESSAGE value="Multiple opeartor Program" />
-    <option name="LAST_COMMIT_MESSAGE" value="Multiple opeartor Program" />
+    <MESSAGE value="Different types of operator" />
+    <option name="LAST_COMMIT_MESSAGE" value="Different types of operator" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
