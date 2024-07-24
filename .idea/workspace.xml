@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e547dce-11bf-4b90-8c23-c7c8ef74472c" name="Changes" comment="Implicit and Explicit data without loss Example program">
-      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab060.java" afterDir="false" />
+    <list default="true" id="7e547dce-11bf-4b90-8c23-c7c8ef74472c" name="Changes" comment="Pre and post increment">
+      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab061.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,6 +77,7 @@
     "Application.Lab058.executor": "Run",
     "Application.Lab059.executor": "Run",
     "Application.Lab060.executor": "Run",
+    "Application.Lab061.executor": "Run",
     "Application.Lab083.executor": "Run",
     "Application.Lab084.executor": "Run",
     "Application.Lab085.executor": "Run",
@@ -99,7 +100,7 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab060">
+  <component name="RunManager" selected="Application.Lab061">
     <configuration name="Lab057" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_14072024.Lab057" />
       <module name="LearningATB7xJavaProgram2" />
@@ -152,8 +153,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Labo56" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_14072024.Labo56" />
+    <configuration name="Lab061" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_14072024.Lab061" />
       <module name="LearningATB7xJavaProgram2" />
       <extension name="coverage">
         <pattern>
@@ -167,11 +168,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab061" />
         <item itemvalue="Application.Lab060" />
         <item itemvalue="Application.Lab059" />
         <item itemvalue="Application.Lab058" />
         <item itemvalue="Application.Lab057" />
-        <item itemvalue="Application.Labo56" />
       </list>
     </recent_temporary>
   </component>
@@ -496,7 +497,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721804009088</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="Pre and post increment">
+      <option name="closed" value="true" />
+      <created>1721805944887</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1721805944887</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -527,7 +536,8 @@
     <MESSAGE value="Implicit Narrowing program" />
     <MESSAGE value="Implicit and Explicit Example program" />
     <MESSAGE value="Implicit and Explicit data without loss Example program" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implicit and Explicit data without loss Example program" />
+    <MESSAGE value="Pre and post increment" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pre and post increment" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
