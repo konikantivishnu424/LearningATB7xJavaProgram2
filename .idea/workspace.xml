@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e547dce-11bf-4b90-8c23-c7c8ef74472c" name="Changes" comment="Pre and post increment">
-      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab061.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="7e547dce-11bf-4b90-8c23-c7c8ef74472c" name="Changes" comment="Pre and post increment Examples">
+      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab062.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -505,7 +504,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721805944887</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="Pre and post increment Examples">
+      <option name="closed" value="true" />
+      <created>1721806226698</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1721806226698</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -537,7 +544,8 @@
     <MESSAGE value="Implicit and Explicit Example program" />
     <MESSAGE value="Implicit and Explicit data without loss Example program" />
     <MESSAGE value="Pre and post increment" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pre and post increment" />
+    <MESSAGE value="Pre and post increment Examples" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pre and post increment Examples" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
