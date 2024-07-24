@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e547dce-11bf-4b90-8c23-c7c8ef74472c" name="Changes" comment="Implicit and Explicit program">
-      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab057.java" afterDir="false" />
+    <list default="true" id="7e547dce-11bf-4b90-8c23-c7c8ef74472c" name="Changes" comment="Implicit Narrowing program">
+      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab058.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,6 +74,7 @@
     "Application.Lab054.executor": "Run",
     "Application.Lab055.executor": "Run",
     "Application.Lab057.executor": "Run",
+    "Application.Lab058.executor": "Run",
     "Application.Lab083.executor": "Run",
     "Application.Lab084.executor": "Run",
     "Application.Lab085.executor": "Run",
@@ -96,20 +97,7 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab057">
-    <configuration name="Lab049" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_13072024.Lab049" />
-      <module name="LearningATB7xJavaProgram2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_13072024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lab058">
     <configuration name="Lab054" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_14072024.Lab054" />
       <module name="LearningATB7xJavaProgram2" />
@@ -149,6 +137,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab058" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_14072024.Lab058" />
+      <module name="LearningATB7xJavaProgram2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_14072024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Labo56" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_14072024.Labo56" />
       <module name="LearningATB7xJavaProgram2" />
@@ -164,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab058" />
         <item itemvalue="Application.Lab057" />
         <item itemvalue="Application.Labo56" />
         <item itemvalue="Application.Lab055" />
         <item itemvalue="Application.Lab054" />
-        <item itemvalue="Application.Lab049" />
       </list>
     </recent_temporary>
   </component>
@@ -469,7 +470,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721794425277</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Implicit Narrowing program">
+      <option name="closed" value="true" />
+      <created>1721794760541</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1721794760541</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -486,7 +495,8 @@
     <MESSAGE value="byte and char converted to int program" />
     <MESSAGE value="short char and int  program" />
     <MESSAGE value="Implicit and Explicit program" />
-    <option name="LAST_COMMIT_MESSAGE" value="Implicit and Explicit program" />
+    <MESSAGE value="Implicit Narrowing program" />
+    <option name="LAST_COMMIT_MESSAGE" value="Implicit Narrowing program" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
