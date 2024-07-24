@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e547dce-11bf-4b90-8c23-c7c8ef74472c" name="Changes" comment="Increment Examples with operand">
-      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab063.java" afterDir="false" />
+    <list default="true" id="7e547dce-11bf-4b90-8c23-c7c8ef74472c" name="Changes" comment="Post Increment Examples">
+      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab064.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,6 +78,7 @@
     "Application.Lab059.executor": "Run",
     "Application.Lab060.executor": "Run",
     "Application.Lab061.executor": "Run",
+    "Application.Lab063.executor": "Run",
     "Application.Lab083.executor": "Run",
     "Application.Lab084.executor": "Run",
     "Application.Lab085.executor": "Run",
@@ -99,20 +101,7 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab063">
-    <configuration name="Lab058" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_14072024.Lab058" />
-      <module name="LearningATB7xJavaProgram2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_14072024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lab064">
     <configuration name="Lab059" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_14072024.Lab059" />
       <module name="LearningATB7xJavaProgram2" />
@@ -165,13 +154,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab064" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_14072024.Lab064" />
+      <module name="LearningATB7xJavaProgram2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_14072024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab064" />
         <item itemvalue="Application.Lab063" />
         <item itemvalue="Application.Lab061" />
         <item itemvalue="Application.Lab060" />
         <item itemvalue="Application.Lab059" />
-        <item itemvalue="Application.Lab058" />
       </list>
     </recent_temporary>
   </component>
@@ -520,7 +522,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721806588137</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="Post Increment Examples">
+      <option name="closed" value="true" />
+      <created>1721811169852</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1721811169852</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -554,7 +564,8 @@
     <MESSAGE value="Pre and post increment" />
     <MESSAGE value="Pre and post increment Examples" />
     <MESSAGE value="Increment Examples with operand" />
-    <option name="LAST_COMMIT_MESSAGE" value="Increment Examples with operand" />
+    <MESSAGE value="Post Increment Examples" />
+    <option name="LAST_COMMIT_MESSAGE" value="Post Increment Examples" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
