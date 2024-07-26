@@ -106,7 +106,7 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab071">
+  <component name="RunManager" selected="Application.Lab074">
     <configuration name="Fizzbuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice.Fizzbuzz" />
       <module name="LearningATB7xJavaProgram2" />
@@ -133,8 +133,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab064" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_14072024.Lab064" />
+    <configuration name="Lab071" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_14072024.Lab071" />
       <module name="LearningATB7xJavaProgram2" />
       <extension name="coverage">
         <pattern>
@@ -146,8 +146,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab071" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_14072024.Lab071" />
+    <configuration name="Lab074" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_14072024.Lab074" />
       <module name="LearningATB7xJavaProgram2" />
       <extension name="coverage">
         <pattern>
@@ -174,11 +174,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab074" />
         <item itemvalue="Application.Lab071" />
         <item itemvalue="Application.Fizzbuzz" />
         <item itemvalue="Application.userDetails" />
         <item itemvalue="Application.GetDetailsFromUser" />
-        <item itemvalue="Application.Lab064" />
       </list>
     </recent_temporary>
   </component>
