@@ -105,7 +105,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Fizzbuzz">
+  <component name="RunManager" selected="Application.Lab071">
     <configuration name="Fizzbuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice.Fizzbuzz" />
       <module name="LearningATB7xJavaProgram2" />
@@ -145,8 +145,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab065" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_14072024.Lab065" />
+    <configuration name="Lab071" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_14072024.Lab071" />
       <module name="LearningATB7xJavaProgram2" />
       <extension name="coverage">
         <pattern>
@@ -173,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab071" />
         <item itemvalue="Application.Fizzbuzz" />
         <item itemvalue="Application.userDetails" />
         <item itemvalue="Application.GetDetailsFromUser" />
         <item itemvalue="Application.Lab064" />
-        <item itemvalue="Application.Lab065" />
       </list>
     </recent_temporary>
   </component>
