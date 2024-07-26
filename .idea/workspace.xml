@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e547dce-11bf-4b90-8c23-c7c8ef74472c" name="Changes" comment="DIfferent ways of assigning strings">
-      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab068.java" afterDir="false" />
+    <list default="true" id="7e547dce-11bf-4b90-8c23-c7c8ef74472c" name="Changes" comment="String constant pool">
+      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab070.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -558,7 +558,23 @@
       <option name="project" value="LOCAL" />
       <updated>1721987388599</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="Assignment operator">
+      <option name="closed" value="true" />
+      <created>1721987983275</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1721987983275</updated>
+    </task>
+    <task id="LOCAL-00048" summary="String constant pool">
+      <option name="closed" value="true" />
+      <created>1721988185902</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1721988185902</updated>
+    </task>
+    <option name="localTasksCounter" value="49" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -595,7 +611,9 @@
     <MESSAGE value="Post Increment Examples" />
     <MESSAGE value="Post and pre  Increment Examples" />
     <MESSAGE value="DIfferent ways of assigning strings" />
-    <option name="LAST_COMMIT_MESSAGE" value="DIfferent ways of assigning strings" />
+    <MESSAGE value="Assignment operator" />
+    <MESSAGE value="String constant pool" />
+    <option name="LAST_COMMIT_MESSAGE" value="String constant pool" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
