@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e547dce-11bf-4b90-8c23-c7c8ef74472c" name="Changes" comment="Post and pre  Increment Examples">
-      <change afterPath="$PROJECT_DIR$/src/Practice/Fizzbuzz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/GetDetailsFromUser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab067.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="7e547dce-11bf-4b90-8c23-c7c8ef74472c" name="Changes" comment="DIfferent ways of assigning strings">
+      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab068.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,66 +45,66 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.FizzBuzzProgram.executor": "Run",
-    "Application.Fizzbuzz.executor": "Run",
-    "Application.GetDetailsFromUser.executor": "Run",
-    "Application.Lab001.executor": "Run",
-    "Application.Lab0016.executor": "Run",
-    "Application.Lab0017.executor": "Run",
-    "Application.Lab002.executor": "Run",
-    "Application.Lab015.executor": "Run",
-    "Application.Lab018.executor": "Run",
-    "Application.Lab026.executor": "Run",
-    "Application.Lab028.executor": "Run",
-    "Application.Lab029.executor": "Run",
-    "Application.Lab031.executor": "Run",
-    "Application.Lab033.executor": "Run",
-    "Application.Lab034.executor": "Run",
-    "Application.Lab035.executor": "Run",
-    "Application.Lab036.executor": "Run",
-    "Application.Lab038.executor": "Run",
-    "Application.Lab039.executor": "Run",
-    "Application.Lab041.executor": "Run",
-    "Application.Lab043.executor": "Run",
-    "Application.Lab044.executor": "Run",
-    "Application.Lab045.executor": "Run",
-    "Application.Lab047.executor": "Run",
-    "Application.Lab049.executor": "Run",
-    "Application.Lab054.executor": "Run",
-    "Application.Lab055.executor": "Run",
-    "Application.Lab057.executor": "Run",
-    "Application.Lab058.executor": "Run",
-    "Application.Lab059.executor": "Run",
-    "Application.Lab060.executor": "Run",
-    "Application.Lab061.executor": "Run",
-    "Application.Lab063.executor": "Run",
-    "Application.Lab064.executor": "Run",
-    "Application.Lab065.executor": "Run",
-    "Application.Lab083.executor": "Run",
-    "Application.Lab084.executor": "Run",
-    "Application.Lab085.executor": "Run",
-    "Application.Lab086.executor": "Run",
-    "Application.Lab087.executor": "Run",
-    "Application.Lab088.executor": "Run",
-    "Application.Lab089.executor": "Run",
-    "Application.Lab091.executor": "Run",
-    "Application.Lab90.executor": "Run",
-    "Application.LabO25.executor": "Run",
-    "Application.Labo56.executor": "Run",
-    "Application.LeapYear.executor": "Debug",
-    "Application.TasksFOrToday.executor": "Run",
-    "Application.Triangle.executor": "Run",
-    "Application.userDetails.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.FizzBuzzProgram.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Fizzbuzz.executor&quot;: &quot;Run&quot;,
+    &quot;Application.GetDetailsFromUser.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab001.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab0016.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab0017.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab002.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab015.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab018.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab026.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab028.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab029.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab031.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab033.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab034.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab035.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab036.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab038.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab039.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab041.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab043.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab044.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab045.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab047.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab049.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab054.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab055.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab057.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab058.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab059.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab060.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab061.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab063.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab064.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab065.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab083.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab084.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab085.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab086.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab087.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab088.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab089.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab091.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab90.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LabO25.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Labo56.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeapYear.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.TasksFOrToday.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Triangle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.userDetails.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.Fizzbuzz">
     <configuration name="Fizzbuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice.Fizzbuzz" />
@@ -553,7 +550,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721812492846</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="DIfferent ways of assigning strings">
+      <option name="closed" value="true" />
+      <created>1721987388599</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1721987388599</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -589,7 +594,8 @@
     <MESSAGE value="Increment Examples with operand" />
     <MESSAGE value="Post Increment Examples" />
     <MESSAGE value="Post and pre  Increment Examples" />
-    <option name="LAST_COMMIT_MESSAGE" value="Post and pre  Increment Examples" />
+    <MESSAGE value="DIfferent ways of assigning strings" />
+    <option name="LAST_COMMIT_MESSAGE" value="DIfferent ways of assigning strings" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
