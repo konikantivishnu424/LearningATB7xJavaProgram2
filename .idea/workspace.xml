@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e547dce-11bf-4b90-8c23-c7c8ef74472c" name="Changes" comment="Lowercase">
-      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab072.java" afterDir="false" />
+    <list default="true" id="7e547dce-11bf-4b90-8c23-c7c8ef74472c" name="Changes" comment="Check for Reference,content">
+      <change afterPath="$PROJECT_DIR$/src/ex_14072024/Lab075.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +83,8 @@
     "Application.Lab064.executor": "Run",
     "Application.Lab065.executor": "Run",
     "Application.Lab071.executor": "Run",
+    "Application.Lab074.executor": "Run",
+    "Application.Lab075.executor": "Run",
     "Application.Lab083.executor": "Run",
     "Application.Lab084.executor": "Run",
     "Application.Lab085.executor": "Run",
@@ -106,22 +108,9 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab074">
+  <component name="RunManager" selected="Application.Lab075">
     <configuration name="Fizzbuzz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice.Fizzbuzz" />
-      <module name="LearningATB7xJavaProgram2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GetDetailsFromUser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.GetDetailsFromUser" />
       <module name="LearningATB7xJavaProgram2" />
       <extension name="coverage">
         <pattern>
@@ -159,6 +148,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab075" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_14072024.Lab075" />
+      <module name="LearningATB7xJavaProgram2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_14072024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="userDetails" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Practice.userDetails" />
       <module name="LearningATB7xJavaProgram2" />
@@ -174,11 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab075" />
         <item itemvalue="Application.Lab074" />
         <item itemvalue="Application.Lab071" />
         <item itemvalue="Application.Fizzbuzz" />
         <item itemvalue="Application.userDetails" />
-        <item itemvalue="Application.GetDetailsFromUser" />
       </list>
     </recent_temporary>
   </component>
@@ -190,30 +192,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721229594628</updated>
-    </task>
-    <task id="LOCAL-00002" summary="All Files are Added">
-      <option name="closed" value="true" />
-      <created>1721230938945</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1721230938945</updated>
-    </task>
-    <task id="LOCAL-00003" summary="All Files are Added">
-      <option name="closed" value="true" />
-      <created>1721301692649</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1721301692649</updated>
-    </task>
-    <task id="LOCAL-00004" summary="All Files are Added">
-      <option name="closed" value="true" />
-      <created>1721301900008</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1721301900008</updated>
     </task>
     <task id="LOCAL-00005" summary="New Files are added">
       <option name="closed" value="true" />
@@ -583,7 +561,31 @@
       <option name="project" value="LOCAL" />
       <updated>1721988426552</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="Strings and storage">
+      <option name="closed" value="true" />
+      <created>1721988654340</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1721988654340</updated>
+    </task>
+    <task id="LOCAL-00052" summary="Concat">
+      <option name="closed" value="true" />
+      <created>1721988779407</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1721988779407</updated>
+    </task>
+    <task id="LOCAL-00053" summary="Check for Reference,content">
+      <option name="closed" value="true" />
+      <created>1721988898100</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1721988898100</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -598,9 +600,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="New Files are added" />
-    <MESSAGE value="20-JULY TASK" />
-    <MESSAGE value="using not and Greater operations" />
     <MESSAGE value="OR Gate program" />
     <MESSAGE value="And  Gate program" />
     <MESSAGE value="Multiple opeartor Program" />
@@ -623,7 +622,10 @@
     <MESSAGE value="String constant pool" />
     <MESSAGE value="Heap Area" />
     <MESSAGE value="Lowercase" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lowercase" />
+    <MESSAGE value="Strings and storage" />
+    <MESSAGE value="Concat" />
+    <MESSAGE value="Check for Reference,content" />
+    <option name="LAST_COMMIT_MESSAGE" value="Check for Reference,content" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
