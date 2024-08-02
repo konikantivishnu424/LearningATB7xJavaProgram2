@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e547dce-11bf-4b90-8c23-c7c8ef74472c" name="Changes" comment="Switch case program">
-      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab097.java" afterDir="false" />
+    <list default="true" id="7e547dce-11bf-4b90-8c23-c7c8ef74472c" name="Changes" comment="Arithmatic program">
+      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab100.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,6 +98,10 @@
     "Application.Lab092.executor": "Run",
     "Application.Lab093.executor": "Run",
     "Application.Lab096.executor": "Run",
+    "Application.Lab097.executor": "Run",
+    "Application.Lab098.executor": "Run",
+    "Application.Lab099.executor": "Run",
+    "Application.Lab100.executor": "Run",
     "Application.Lab90.executor": "Run",
     "Application.LabO25.executor": "Run",
     "Application.Labo56.executor": "Run",
@@ -117,20 +121,7 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab099">
-    <configuration name="Lab095" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_20072024.Lab095" />
-      <module name="LearningATB7xJavaProgram2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_20072024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lab100">
     <configuration name="Lab096" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_20072024.Lab096" />
       <module name="LearningATB7xJavaProgram2" />
@@ -183,13 +174,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab100" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_20072024.Lab100" />
+      <module name="LearningATB7xJavaProgram2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_20072024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab100" />
         <item itemvalue="Application.Lab099" />
         <item itemvalue="Application.Lab098" />
         <item itemvalue="Application.Lab097" />
         <item itemvalue="Application.Lab096" />
-        <item itemvalue="Application.Lab095" />
       </list>
     </recent_temporary>
   </component>
@@ -201,30 +205,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721229594628</updated>
-    </task>
-    <task id="LOCAL-00018" summary="New Files are added">
-      <option name="closed" value="true" />
-      <created>1721448116566</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1721448116566</updated>
-    </task>
-    <task id="LOCAL-00019" summary="New Files are added">
-      <option name="closed" value="true" />
-      <created>1721474987585</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1721474987585</updated>
-    </task>
-    <task id="LOCAL-00020" summary="New Files are added">
-      <option name="closed" value="true" />
-      <created>1721475760583</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1721475760583</updated>
     </task>
     <task id="LOCAL-00021" summary="New Files are added">
       <option name="closed" value="true" />
@@ -594,7 +574,31 @@
       <option name="project" value="LOCAL" />
       <updated>1722605222509</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="Switch case Example">
+      <option name="closed" value="true" />
+      <created>1722605287464</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1722605287464</updated>
+    </task>
+    <task id="LOCAL-00068" summary="Switch case Example 2">
+      <option name="closed" value="true" />
+      <created>1722605435422</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1722605435422</updated>
+    </task>
+    <task id="LOCAL-00069" summary="Arithmatic program">
+      <option name="closed" value="true" />
+      <created>1722605539354</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1722605539354</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -609,9 +613,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Pre and post increment" />
-    <MESSAGE value="Pre and post increment Examples" />
-    <MESSAGE value="Increment Examples with operand" />
     <MESSAGE value="Post Increment Examples" />
     <MESSAGE value="Post and pre  Increment Examples" />
     <MESSAGE value="DIfferent ways of assigning strings" />
@@ -634,7 +635,10 @@
     <MESSAGE value="Browser Program" />
     <MESSAGE value="Char switch program" />
     <MESSAGE value="Switch case program" />
-    <option name="LAST_COMMIT_MESSAGE" value="Switch case program" />
+    <MESSAGE value="Switch case Example" />
+    <MESSAGE value="Switch case Example 2" />
+    <MESSAGE value="Arithmatic program" />
+    <option name="LAST_COMMIT_MESSAGE" value="Arithmatic program" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
