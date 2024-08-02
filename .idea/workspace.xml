@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e547dce-11bf-4b90-8c23-c7c8ef74472c" name="Changes" comment="Vowel or Consonent Program" />
+    <list default="true" id="7e547dce-11bf-4b90-8c23-c7c8ef74472c" name="Changes" comment="For Loop Program" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -104,6 +104,7 @@
     "Application.Lab102.executor": "Run",
     "Application.Lab103.executor": "Run",
     "Application.Lab105.executor": "Run",
+    "Application.Lab107.executor": "Run",
     "Application.Lab90.executor": "Run",
     "Application.LabO25.executor": "Run",
     "Application.Labo56.executor": "Run",
@@ -123,20 +124,7 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab107">
-    <configuration name="Lab101" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_20072024.Lab101" />
-      <module name="LearningATB7xJavaProgram2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_20072024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lab108">
     <configuration name="Lab102" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_20072024.Lab102" />
       <module name="LearningATB7xJavaProgram2" />
@@ -189,13 +177,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab108" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_21072024.Lab108" />
+      <module name="LearningATB7xJavaProgram2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_21072024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab108" />
         <item itemvalue="Application.Lab107" />
         <item itemvalue="Application.Lab105" />
         <item itemvalue="Application.Lab103" />
         <item itemvalue="Application.Lab102" />
-        <item itemvalue="Application.Lab101" />
       </list>
     </recent_temporary>
   </component>
@@ -207,14 +208,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721229594628</updated>
-    </task>
-    <task id="LOCAL-00027" summary="using not and Greater operations">
-      <option name="closed" value="true" />
-      <created>1721698680114</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1721698680115</updated>
     </task>
     <task id="LOCAL-00028" summary="OR Gate program">
       <option name="closed" value="true" />
@@ -600,7 +593,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722607306045</updated>
     </task>
-    <option name="localTasksCounter" value="76" />
+    <task id="LOCAL-00076" summary="For Loop Program">
+      <option name="closed" value="true" />
+      <created>1722607582611</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1722607582611</updated>
+    </task>
+    <option name="localTasksCounter" value="77" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -615,7 +616,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Lowercase" />
     <MESSAGE value="Strings and storage" />
     <MESSAGE value="Concat" />
     <MESSAGE value="Check for Reference,content" />
@@ -640,7 +640,8 @@
     <MESSAGE value="Write a program user entered is positive or negitive or Zero" />
     <MESSAGE value="Largest among 3 numbers" />
     <MESSAGE value="Vowel or Consonent Program" />
-    <option name="LAST_COMMIT_MESSAGE" value="Vowel or Consonent Program" />
+    <MESSAGE value="For Loop Program" />
+    <option name="LAST_COMMIT_MESSAGE" value="For Loop Program" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -671,15 +672,6 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/ex_20072024/Lab105.java</url>
-          <line>3</line>
-          <properties class="ex_20072024.Lab105" method="main">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
