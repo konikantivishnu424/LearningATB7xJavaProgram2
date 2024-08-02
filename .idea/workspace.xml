@@ -116,7 +116,7 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab094">
+  <component name="RunManager" selected="Application.Lab095">
     <configuration name="Lab092" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_20072024.Lab092" />
       <module name="LearningATB7xJavaProgram2" />
@@ -156,12 +156,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeftTriangleStarPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Todays_Tasks.LeftTriangleStarPattern" />
+    <configuration name="Lab095" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_20072024.Lab095" />
       <module name="LearningATB7xJavaProgram2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Todays_Tasks.*" />
+          <option name="PATTERN" value="ex_20072024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -184,11 +184,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab095" />
         <item itemvalue="Application.Lab094" />
         <item itemvalue="Application.Lab093" />
         <item itemvalue="Application.Lab092" />
         <item itemvalue="Application.RightTriangleStarpattern" />
-        <item itemvalue="Application.LeftTriangleStarPattern" />
       </list>
     </recent_temporary>
   </component>
