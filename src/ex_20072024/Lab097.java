@@ -3,7 +3,7 @@ package ex_20072024;
 public class Lab097 {
     public static void main(String[] args) {
 
-        int itemcode = 006;
+        int itemcode = 007;
         switch (itemcode) {
             case 001, 002, 003:
                 System.out.println("It is Electronic Gadget!");
