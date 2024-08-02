@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e547dce-11bf-4b90-8c23-c7c8ef74472c" name="Changes" comment="Days program using switch program">
-      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab093.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="7e547dce-11bf-4b90-8c23-c7c8ef74472c" name="Changes" comment="Browser Program">
+      <change afterPath="$PROJECT_DIR$/src/ex_20072024/Lab094.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,6 +96,7 @@
     "Application.Lab089.executor": "Run",
     "Application.Lab091.executor": "Run",
     "Application.Lab092.executor": "Run",
+    "Application.Lab093.executor": "Run",
     "Application.Lab90.executor": "Run",
     "Application.LabO25.executor": "Run",
     "Application.Labo56.executor": "Run",
@@ -116,7 +116,7 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab093">
+  <component name="RunManager" selected="Application.Lab094">
     <configuration name="Lab092" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_20072024.Lab092" />
       <module name="LearningATB7xJavaProgram2" />
@@ -132,6 +132,19 @@
     </configuration>
     <configuration name="Lab093" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_20072024.Lab093" />
+      <module name="LearningATB7xJavaProgram2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_20072024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab094" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_20072024.Lab094" />
       <module name="LearningATB7xJavaProgram2" />
       <extension name="coverage">
         <pattern>
@@ -169,26 +182,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SecondHighestNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Todays_Tasks.SecondHighestNumber" />
-      <module name="LearningATB7xJavaProgram2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Todays_Tasks.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab094" />
         <item itemvalue="Application.Lab093" />
         <item itemvalue="Application.Lab092" />
         <item itemvalue="Application.RightTriangleStarpattern" />
         <item itemvalue="Application.LeftTriangleStarPattern" />
-        <item itemvalue="Application.SecondHighestNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -200,14 +200,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721229594628</updated>
-    </task>
-    <task id="LOCAL-00015" summary="New Files are added">
-      <option name="closed" value="true" />
-      <created>1721382114520</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1721382114520</updated>
     </task>
     <task id="LOCAL-00016" summary="New Files are added">
       <option name="closed" value="true" />
@@ -593,7 +585,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722592808597</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="Browser Program">
+      <option name="closed" value="true" />
+      <created>1722592992523</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1722592992523</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -608,7 +608,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Implicit Narrowing program" />
     <MESSAGE value="Implicit and Explicit Example program" />
     <MESSAGE value="Implicit and Explicit data without loss Example program" />
     <MESSAGE value="Pre and post increment" />
@@ -633,7 +632,8 @@
     <MESSAGE value="Triangle Star Program" />
     <MESSAGE value="Second Highest salary,Right Triangle star pattern,Left Triangle star pattern" />
     <MESSAGE value="Days program using switch program" />
-    <option name="LAST_COMMIT_MESSAGE" value="Days program using switch program" />
+    <MESSAGE value="Browser Program" />
+    <option name="LAST_COMMIT_MESSAGE" value="Browser Program" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
