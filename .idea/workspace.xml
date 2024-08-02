@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e547dce-11bf-4b90-8c23-c7c8ef74472c" name="Changes" comment="For loop and float program">
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab113.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="7e547dce-11bf-4b90-8c23-c7c8ef74472c" name="Changes" comment="for Loop program">
+      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab117.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -114,6 +113,10 @@
     "Application.Lab111.executor": "Run",
     "Application.Lab112.executor": "Run",
     "Application.Lab113.executor": "Run",
+    "Application.Lab114.executor": "Run",
+    "Application.Lab115.executor": "Run",
+    "Application.Lab116.executor": "Run",
+    "Application.Lab117.executor": "Run",
     "Application.Lab90.executor": "Run",
     "Application.LabO25.executor": "Run",
     "Application.Labo56.executor": "Run",
@@ -133,20 +136,7 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab116">
-    <configuration name="Lab112" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_21072024.Lab112" />
-      <module name="LearningATB7xJavaProgram2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_21072024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lab117">
     <configuration name="Lab113" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_21072024.Lab113" />
       <module name="LearningATB7xJavaProgram2" />
@@ -199,13 +189,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab117" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_21072024.Lab117" />
+      <module name="LearningATB7xJavaProgram2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_21072024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab117" />
         <item itemvalue="Application.Lab116" />
         <item itemvalue="Application.Lab115" />
         <item itemvalue="Application.Lab114" />
         <item itemvalue="Application.Lab113" />
-        <item itemvalue="Application.Lab112" />
       </list>
     </recent_temporary>
   </component>
@@ -217,38 +220,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721229594628</updated>
-    </task>
-    <task id="LOCAL-00033" summary="byte and Long program">
-      <option name="closed" value="true" />
-      <created>1721792282010</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1721792282010</updated>
-    </task>
-    <task id="LOCAL-00034" summary="byte and char converted to int program">
-      <option name="closed" value="true" />
-      <created>1721792837192</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1721792837192</updated>
-    </task>
-    <task id="LOCAL-00035" summary="short char and int  program">
-      <option name="closed" value="true" />
-      <created>1721793011155</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1721793011155</updated>
-    </task>
-    <task id="LOCAL-00036" summary="Implicit and Explicit program">
-      <option name="closed" value="true" />
-      <created>1721794425277</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1721794425277</updated>
     </task>
     <task id="LOCAL-00037" summary="Implicit Narrowing program">
       <option name="closed" value="true" />
@@ -610,7 +581,39 @@
       <option name="project" value="LOCAL" />
       <updated>1722608383438</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="For loop and numerical program">
+      <option name="closed" value="true" />
+      <created>1722608509069</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1722608509069</updated>
+    </task>
+    <task id="LOCAL-00083" summary="A - z alphabet program">
+      <option name="closed" value="true" />
+      <created>1722608585743</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1722608585743</updated>
+    </task>
+    <task id="LOCAL-00084" summary="for Loop program">
+      <option name="closed" value="true" />
+      <created>1722608648587</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1722608648587</updated>
+    </task>
+    <task id="LOCAL-00085" summary="for Loop program">
+      <option name="closed" value="true" />
+      <created>1722608750949</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1722608750949</updated>
+    </task>
+    <option name="localTasksCounter" value="86" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -625,9 +628,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="String Examples" />
-    <MESSAGE value="NON primitive types" />
-    <MESSAGE value="LOwercase" />
     <MESSAGE value="Ternary operator" />
     <MESSAGE value="max and min" />
     <MESSAGE value="Triangle Star Program" />
@@ -650,7 +650,10 @@
     <MESSAGE value="For loop Example" />
     <MESSAGE value="For loop infinity program Example" />
     <MESSAGE value="For loop and float program" />
-    <option name="LAST_COMMIT_MESSAGE" value="For loop and float program" />
+    <MESSAGE value="For loop and numerical program" />
+    <MESSAGE value="A - z alphabet program" />
+    <MESSAGE value="for Loop program" />
+    <option name="LAST_COMMIT_MESSAGE" value="for Loop program" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
