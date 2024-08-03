@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e547dce-11bf-4b90-8c23-c7c8ef74472c" name="Changes" comment="Fizz Buzz Program">
-      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab134.java" afterDir="false" />
+    <list default="true" id="7e547dce-11bf-4b90-8c23-c7c8ef74472c" name="Changes" comment="Call the Function">
+      <change afterPath="$PROJECT_DIR$/src/ex_21072024/Lab136.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -135,6 +135,8 @@
     "Application.Lab132.executor": "Run",
     "Application.Lab133.executor": "Run",
     "Application.Lab134.executor": "Run",
+    "Application.Lab135.executor": "Run",
+    "Application.Lab136.executor": "Run",
     "Application.Lab90.executor": "Run",
     "Application.LabO25.executor": "Run",
     "Application.Labo56.executor": "Run",
@@ -154,20 +156,7 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab135">
-    <configuration name="Lab131" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_21072024.Lab131" />
-      <module name="LearningATB7xJavaProgram2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_21072024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lab136">
     <configuration name="Lab132" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_21072024.Lab132" />
       <module name="LearningATB7xJavaProgram2" />
@@ -220,13 +209,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab136" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_21072024.Lab136" />
+      <module name="LearningATB7xJavaProgram2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ex_21072024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab136" />
         <item itemvalue="Application.Lab135" />
         <item itemvalue="Application.Lab134" />
         <item itemvalue="Application.Lab133" />
         <item itemvalue="Application.Lab132" />
-        <item itemvalue="Application.Lab131" />
       </list>
     </recent_temporary>
   </component>
@@ -238,22 +240,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721229594628</updated>
-    </task>
-    <task id="LOCAL-00054" summary="Check for Reference,content Examples">
-      <option name="closed" value="true" />
-      <created>1721988985881</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1721988985881</updated>
-    </task>
-    <task id="LOCAL-00055" summary="String Examples">
-      <option name="closed" value="true" />
-      <created>1721989189382</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1721989189382</updated>
     </task>
     <task id="LOCAL-00056" summary="NON primitive types">
       <option name="closed" value="true" />
@@ -631,7 +617,23 @@
       <option name="project" value="LOCAL" />
       <updated>1722610024125</updated>
     </task>
-    <option name="localTasksCounter" value="103" />
+    <task id="LOCAL-00103" summary="max program">
+      <option name="closed" value="true" />
+      <created>1722610942519</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1722610942520</updated>
+    </task>
+    <task id="LOCAL-00104" summary="Call the Function">
+      <option name="closed" value="true" />
+      <created>1722611019473</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1722611019473</updated>
+    </task>
+    <option name="localTasksCounter" value="105" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -646,8 +648,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Arithmatic program" />
-    <MESSAGE value="Yield Program" />
     <MESSAGE value="Write a program of user name,age,salary" />
     <MESSAGE value="Switch and Default Program" />
     <MESSAGE value="Write a program user entered is positive or negitive or Zero" />
@@ -671,7 +671,9 @@
     <MESSAGE value="Factorial Program" />
     <MESSAGE value="Do while program" />
     <MESSAGE value="Fizz Buzz Program" />
-    <option name="LAST_COMMIT_MESSAGE" value="Fizz Buzz Program" />
+    <MESSAGE value="max program" />
+    <MESSAGE value="Call the Function" />
+    <option name="LAST_COMMIT_MESSAGE" value="Call the Function" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
