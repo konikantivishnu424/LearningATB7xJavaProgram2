@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e547dce-11bf-4b90-8c23-c7c8ef74472c" name="Changes" comment="Reverse a word Program">
-      <change afterPath="$PROJECT_DIR$/src/Practice/ArithmaticOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/BasicProgram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/Print1To100Evennumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/Print1to100oddnumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/Print1to10Numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/printlnandprintn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Practice/userDetails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_28072024/Lab154.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_28072024/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_28072024/BuildingBp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
