@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e547dce-11bf-4b90-8c23-c7c8ef74472c" name="Changes" comment="Dummy Program">
-      <change afterPath="$PROJECT_DIR$/src/ex_28072024/Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ex_28072024/Lab159.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="7e547dce-11bf-4b90-8c23-c7c8ef74472c" name="Changes" comment="Bank class and reference creation program">
+      <change afterPath="$PROJECT_DIR$/src/ex_28072024/Lab160.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -263,14 +261,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721229594628</updated>
-    </task>
-    <task id="LOCAL-00080" summary="For loop infinity program Example">
-      <option name="closed" value="true" />
-      <created>1722608281703</created>
-      <option name="number" value="00080" />
-      <option name="presentableId" value="LOCAL-00080" />
-      <option name="project" value="LOCAL" />
-      <updated>1722608281703</updated>
     </task>
     <task id="LOCAL-00081" summary="For loop and float program">
       <option name="closed" value="true" />
@@ -656,7 +646,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723433233130</updated>
     </task>
-    <option name="localTasksCounter" value="129" />
+    <task id="LOCAL-00129" summary="Bank class and reference creation program">
+      <option name="closed" value="true" />
+      <created>1723436989048</created>
+      <option name="number" value="00129" />
+      <option name="presentableId" value="LOCAL-00129" />
+      <option name="project" value="LOCAL" />
+      <updated>1723436989048</updated>
+    </task>
+    <option name="localTasksCounter" value="130" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -671,7 +669,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="While and Do while Loop" />
     <MESSAGE value="While Loop" />
     <MESSAGE value="Factorial Program" />
     <MESSAGE value="Do while program" />
@@ -696,7 +693,8 @@
     <MESSAGE value="Dog class and reference Creation Program" />
     <MESSAGE value="Animal Program" />
     <MESSAGE value="Dummy Program" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dummy Program" />
+    <MESSAGE value="Bank class and reference creation program" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bank class and reference creation program" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
