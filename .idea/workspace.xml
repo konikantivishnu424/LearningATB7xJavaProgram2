@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e547dce-11bf-4b90-8c23-c7c8ef74472c" name="Changes" comment="Leap Year Program">
-      <change afterPath="$PROJECT_DIR$/src/Aug/ex_04082024/Lab162.java" afterDir="false" />
+    <list default="true" id="7e547dce-11bf-4b90-8c23-c7c8ef74472c" name="Changes" comment="constructors">
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_04082024/Lab163.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_04082024/person.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -157,6 +158,7 @@
     "Application.Lab153.executor": "Run",
     "Application.Lab159.executor": "Run",
     "Application.Lab161.executor": "Run",
+    "Application.Lab163.executor": "Run",
     "Application.Lab90.executor": "Run",
     "Application.LabO25.executor": "Run",
     "Application.Labo56.executor": "Run",
@@ -179,7 +181,7 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab161">
+  <component name="RunManager" selected="Application.Lab163">
     <configuration name="Animal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_28072024.Animal" />
       <module name="LearningATB7xJavaProgram2" />
@@ -232,12 +234,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Print1to100oddnumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.Print1to100oddnumbers" />
+    <configuration name="Lab163" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aug.ex_04082024.Lab163" />
       <module name="LearningATB7xJavaProgram2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice.*" />
+          <option name="PATTERN" value="Aug.ex_04082024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -247,11 +249,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab163" />
         <item itemvalue="Application.Lab161" />
         <item itemvalue="Application.Lab159" />
         <item itemvalue="Application.Animal" />
         <item itemvalue="Application.Lab155" />
-        <item itemvalue="Application.Print1to100oddnumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -263,14 +265,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721229594628</updated>
-    </task>
-    <task id="LOCAL-00083" summary="A - z alphabet program">
-      <option name="closed" value="true" />
-      <created>1722608585743</created>
-      <option name="number" value="00083" />
-      <option name="presentableId" value="LOCAL-00083" />
-      <option name="project" value="LOCAL" />
-      <updated>1722608585743</updated>
     </task>
     <task id="LOCAL-00084" summary="for Loop program">
       <option name="closed" value="true" />
@@ -656,7 +650,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723438053700</updated>
     </task>
-    <option name="localTasksCounter" value="132" />
+    <task id="LOCAL-00132" summary="constructors">
+      <option name="closed" value="true" />
+      <created>1723458551664</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1723458551664</updated>
+    </task>
+    <option name="localTasksCounter" value="133" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -671,7 +673,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Do while program" />
     <MESSAGE value="Fizz Buzz Program" />
     <MESSAGE value="max program" />
     <MESSAGE value="Call the Function" />
@@ -696,7 +697,8 @@
     <MESSAGE value="Bank class and reference creation program" />
     <MESSAGE value="Basic Program" />
     <MESSAGE value="Leap Year Program" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leap Year Program" />
+    <MESSAGE value="constructors" />
+    <option name="LAST_COMMIT_MESSAGE" value="constructors" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
