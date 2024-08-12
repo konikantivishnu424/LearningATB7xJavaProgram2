@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e547dce-11bf-4b90-8c23-c7c8ef74472c" name="Changes" comment="Building Blueprint Program">
-      <change afterPath="$PROJECT_DIR$/src/ex_28072024/Lab155.java" afterDir="false" />
+    <list default="true" id="7e547dce-11bf-4b90-8c23-c7c8ef74472c" name="Changes" comment="object creation Program">
+      <change afterPath="$PROJECT_DIR$/src/ex_28072024/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ex_28072024/Lab156.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -260,14 +261,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721229594628</updated>
-    </task>
-    <task id="LOCAL-00075" summary="Vowel or Consonent Program">
-      <option name="closed" value="true" />
-      <created>1722607306045</created>
-      <option name="number" value="00075" />
-      <option name="presentableId" value="LOCAL-00075" />
-      <option name="project" value="LOCAL" />
-      <updated>1722607306045</updated>
     </task>
     <task id="LOCAL-00076" summary="For Loop Program">
       <option name="closed" value="true" />
@@ -653,7 +646,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723345064944</updated>
     </task>
-    <option name="localTasksCounter" value="124" />
+    <task id="LOCAL-00124" summary="object creation Program">
+      <option name="closed" value="true" />
+      <created>1723421093347</created>
+      <option name="number" value="00124" />
+      <option name="presentableId" value="LOCAL-00124" />
+      <option name="project" value="LOCAL" />
+      <updated>1723421093349</updated>
+    </task>
+    <option name="localTasksCounter" value="125" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -668,7 +669,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="for and if loop" />
     <MESSAGE value="Continue" />
     <MESSAGE value="Even and Odd For lOop" />
     <MESSAGE value="Print 1 to 100 using for Loop" />
@@ -693,7 +693,8 @@
     <MESSAGE value="String Builder ,String Buffer" />
     <MESSAGE value="Reverse a word Program" />
     <MESSAGE value="Building Blueprint Program" />
-    <option name="LAST_COMMIT_MESSAGE" value="Building Blueprint Program" />
+    <MESSAGE value="object creation Program" />
+    <option name="LAST_COMMIT_MESSAGE" value="object creation Program" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
