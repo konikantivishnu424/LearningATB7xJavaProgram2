@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e547dce-11bf-4b90-8c23-c7c8ef74472c" name="Changes" comment="Reverse a word Program">
-      <change afterPath="$PROJECT_DIR$/src/ex_28072024/BuildingBp.java" afterDir="false" />
+    <list default="true" id="7e547dce-11bf-4b90-8c23-c7c8ef74472c" name="Changes" comment="Building Blueprint Program">
+      <change afterPath="$PROJECT_DIR$/src/ex_28072024/Lab155.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -176,13 +176,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Print1to100oddnumbers">
-    <configuration name="ArithmaticOperation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.ArithmaticOperation" />
+  <component name="RunManager" selected="Application.Lab155">
+    <configuration name="Lab155" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_28072024.Lab155" />
       <module name="LearningATB7xJavaProgram2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice.*" />
+          <option name="PATTERN" value="ex_28072024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -244,11 +244,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab155" />
         <item itemvalue="Application.Print1to100oddnumbers" />
         <item itemvalue="Application.Print1To100Evennumbers" />
         <item itemvalue="Application.Print1to10Numbers" />
         <item itemvalue="Application.printlnandprintn" />
-        <item itemvalue="Application.ArithmaticOperation" />
       </list>
     </recent_temporary>
   </component>
@@ -260,14 +260,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721229594628</updated>
-    </task>
-    <task id="LOCAL-00074" summary="Largest among 3 numbers">
-      <option name="closed" value="true" />
-      <created>1722607180186</created>
-      <option name="number" value="00074" />
-      <option name="presentableId" value="LOCAL-00074" />
-      <option name="project" value="LOCAL" />
-      <updated>1722607180186</updated>
     </task>
     <task id="LOCAL-00075" summary="Vowel or Consonent Program">
       <option name="closed" value="true" />
@@ -653,7 +645,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722650645048</updated>
     </task>
-    <option name="localTasksCounter" value="123" />
+    <task id="LOCAL-00123" summary="Building Blueprint Program">
+      <option name="closed" value="true" />
+      <created>1723345064942</created>
+      <option name="number" value="00123" />
+      <option name="presentableId" value="LOCAL-00123" />
+      <option name="project" value="LOCAL" />
+      <updated>1723345064944</updated>
+    </task>
+    <option name="localTasksCounter" value="124" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -668,7 +668,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Loop with Condition" />
     <MESSAGE value="for and if loop" />
     <MESSAGE value="Continue" />
     <MESSAGE value="Even and Odd For lOop" />
@@ -693,7 +692,8 @@
     <MESSAGE value="String constant POol" />
     <MESSAGE value="String Builder ,String Buffer" />
     <MESSAGE value="Reverse a word Program" />
-    <option name="LAST_COMMIT_MESSAGE" value="Reverse a word Program" />
+    <MESSAGE value="Building Blueprint Program" />
+    <option name="LAST_COMMIT_MESSAGE" value="Building Blueprint Program" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
