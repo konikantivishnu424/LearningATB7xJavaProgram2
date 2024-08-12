@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e547dce-11bf-4b90-8c23-c7c8ef74472c" name="Changes" comment="Bank class and reference creation program">
-      <change afterPath="$PROJECT_DIR$/src/ex_28072024/Lab160.java" afterDir="false" />
+    <list default="true" id="7e547dce-11bf-4b90-8c23-c7c8ef74472c" name="Changes" comment="Basic Program">
+      <change afterPath="$PROJECT_DIR$/src/ex_28072024/Lab161.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -177,7 +178,7 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab159">
+  <component name="RunManager" selected="Application.Lab161">
     <configuration name="Animal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_28072024.Animal" />
       <module name="LearningATB7xJavaProgram2" />
@@ -217,12 +218,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Print1To100Evennumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practice.Print1To100Evennumbers" />
+    <configuration name="Lab161" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex_28072024.Lab161" />
       <module name="LearningATB7xJavaProgram2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practice.*" />
+          <option name="PATTERN" value="ex_28072024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -245,11 +246,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab161" />
         <item itemvalue="Application.Lab159" />
         <item itemvalue="Application.Animal" />
         <item itemvalue="Application.Lab155" />
         <item itemvalue="Application.Print1to100oddnumbers" />
-        <item itemvalue="Application.Print1To100Evennumbers" />
       </list>
     </recent_temporary>
   </component>
@@ -261,14 +262,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721229594628</updated>
-    </task>
-    <task id="LOCAL-00081" summary="For loop and float program">
-      <option name="closed" value="true" />
-      <created>1722608383438</created>
-      <option name="number" value="00081" />
-      <option name="presentableId" value="LOCAL-00081" />
-      <option name="project" value="LOCAL" />
-      <updated>1722608383438</updated>
     </task>
     <task id="LOCAL-00082" summary="For loop and numerical program">
       <option name="closed" value="true" />
@@ -654,7 +647,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723436989048</updated>
     </task>
-    <option name="localTasksCounter" value="130" />
+    <task id="LOCAL-00130" summary="Basic Program">
+      <option name="closed" value="true" />
+      <created>1723437480512</created>
+      <option name="number" value="00130" />
+      <option name="presentableId" value="LOCAL-00130" />
+      <option name="project" value="LOCAL" />
+      <updated>1723437480512</updated>
+    </task>
+    <option name="localTasksCounter" value="131" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -669,7 +670,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="While Loop" />
     <MESSAGE value="Factorial Program" />
     <MESSAGE value="Do while program" />
     <MESSAGE value="Fizz Buzz Program" />
@@ -694,7 +694,8 @@
     <MESSAGE value="Animal Program" />
     <MESSAGE value="Dummy Program" />
     <MESSAGE value="Bank class and reference creation program" />
-    <option name="LAST_COMMIT_MESSAGE" value="Bank class and reference creation program" />
+    <MESSAGE value="Basic Program" />
+    <option name="LAST_COMMIT_MESSAGE" value="Basic Program" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
