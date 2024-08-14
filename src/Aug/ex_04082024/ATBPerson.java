@@ -9,4 +9,11 @@ public class ATBPerson {
     ATBPerson() {
         System.out.println("Object is Created !!!");
     }
+    ATBPerson(String nameGiven){
+        this.name = nameGiven;
+    }
+    ATBPerson(String nameGiven ,long phoneNumber){
+        this.name = nameGiven;
+        this.phone = phoneNumber;
+    }
 }

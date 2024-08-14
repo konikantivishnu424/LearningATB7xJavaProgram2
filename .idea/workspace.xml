@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e547dce-11bf-4b90-8c23-c7c8ef74472c" name="Changes" comment="folder creted">
-      <change afterPath="$PROJECT_DIR$/src/Aug/ex_04082024/ATBPerson.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aug/ex_04082024/Lab168.java" afterDir="false" />
+    <list default="true" id="7e547dce-11bf-4b90-8c23-c7c8ef74472c" name="Changes" comment="Default constructor">
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_04082024/Lab169.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aug/ex_04082024/Lab166.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_04082024/Lab166.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Aug/ex_04082024/Lab167.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_04082024/Lab167.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aug/ex_04082024/ATBPerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_04082024/ATBPerson.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,6 +161,7 @@
     "Application.Lab163.executor": "Run",
     "Application.Lab164.executor": "Run",
     "Application.Lab168.executor": "Run",
+    "Application.Lab169.executor": "Run",
     "Application.Lab90.executor": "Run",
     "Application.LabO25.executor": "Run",
     "Application.Labo56.executor": "Run",
@@ -185,20 +184,7 @@
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Lab168">
-    <configuration name="Lab159" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex_28072024.Lab159" />
-      <module name="LearningATB7xJavaProgram2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ex_28072024.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Lab169">
     <configuration name="Lab161" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ex_28072024.Lab161" />
       <module name="LearningATB7xJavaProgram2" />
@@ -251,13 +237,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Lab169" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Aug.ex_04082024.Lab169" />
+      <module name="LearningATB7xJavaProgram2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Aug.ex_04082024.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab169" />
         <item itemvalue="Application.Lab168" />
         <item itemvalue="Application.Lab164" />
         <item itemvalue="Application.Lab163" />
         <item itemvalue="Application.Lab161" />
-        <item itemvalue="Application.Lab159" />
       </list>
     </recent_temporary>
   </component>
@@ -269,14 +268,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721229594628</updated>
-    </task>
-    <task id="LOCAL-00087" summary="for Loop program">
-      <option name="closed" value="true" />
-      <created>1722608905246</created>
-      <option name="number" value="00087" />
-      <option name="presentableId" value="LOCAL-00087" />
-      <option name="project" value="LOCAL" />
-      <updated>1722608905246</updated>
     </task>
     <task id="LOCAL-00088" summary="Loop with Condition">
       <option name="closed" value="true" />
@@ -662,7 +653,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723509624838</updated>
     </task>
-    <option name="localTasksCounter" value="136" />
+    <task id="LOCAL-00136" summary="Default constructor">
+      <option name="closed" value="true" />
+      <created>1723601086213</created>
+      <option name="number" value="00136" />
+      <option name="presentableId" value="LOCAL-00136" />
+      <option name="project" value="LOCAL" />
+      <updated>1723601086214</updated>
+    </task>
+    <option name="localTasksCounter" value="137" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -677,7 +676,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="function parameters" />
     <MESSAGE value="Data types" />
     <MESSAGE value="ArraY Index program" />
     <MESSAGE value="float Program" />
@@ -702,7 +700,8 @@
     <MESSAGE value="creating constructors example" />
     <MESSAGE value="car constructors example" />
     <MESSAGE value="folder creted" />
-    <option name="LAST_COMMIT_MESSAGE" value="folder creted" />
+    <MESSAGE value="Default constructor" />
+    <option name="LAST_COMMIT_MESSAGE" value="Default constructor" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
