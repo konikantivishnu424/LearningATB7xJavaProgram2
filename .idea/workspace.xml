@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e547dce-11bf-4b90-8c23-c7c8ef74472c" name="Changes" comment="Singlehiretence">
-      <change afterPath="$PROJECT_DIR$/src/Aug/ex_04082024/Lab173.java" afterDir="false" />
+    <list default="true" id="7e547dce-11bf-4b90-8c23-c7c8ef74472c" name="Changes" comment="imported from the package">
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_04082024/singleheritence/ex/Programming.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_04082024/singleheritence/ex/python.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -269,14 +271,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721229594628</updated>
-    </task>
-    <task id="LOCAL-00091" summary="Continue">
-      <option name="closed" value="true" />
-      <created>1722609191512</created>
-      <option name="number" value="00091" />
-      <option name="presentableId" value="LOCAL-00091" />
-      <option name="project" value="LOCAL" />
-      <updated>1722609191516</updated>
     </task>
     <task id="LOCAL-00092" summary="Even and Odd For lOop">
       <option name="closed" value="true" />
@@ -662,7 +656,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723884865271</updated>
     </task>
-    <option name="localTasksCounter" value="140" />
+    <task id="LOCAL-00140" summary="imported from the package">
+      <option name="closed" value="true" />
+      <created>1723885203823</created>
+      <option name="number" value="00140" />
+      <option name="presentableId" value="LOCAL-00140" />
+      <option name="project" value="LOCAL" />
+      <updated>1723885203823</updated>
+    </task>
+    <option name="localTasksCounter" value="141" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -677,7 +679,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Array initialization with primitive Data Types" />
     <MESSAGE value="for Else" />
     <MESSAGE value="marks Programs" />
     <MESSAGE value="marks and avg Programs" />
@@ -702,7 +703,8 @@
     <MESSAGE value="This program" />
     <MESSAGE value="default constructor and paramaterized constructor" />
     <MESSAGE value="Singlehiretence" />
-    <option name="LAST_COMMIT_MESSAGE" value="Singlehiretence" />
+    <MESSAGE value="imported from the package" />
+    <option name="LAST_COMMIT_MESSAGE" value="imported from the package" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
