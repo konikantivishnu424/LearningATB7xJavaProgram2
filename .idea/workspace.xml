@@ -4,12 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e547dce-11bf-4b90-8c23-c7c8ef74472c" name="Changes" comment="Hirarcial Inheritence">
-      <change afterPath="$PROJECT_DIR$/src/Aug/ex_04082024/MultipleHeritence/Father.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aug/ex_04082024/MultipleHeritence/Lab176.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aug/ex_04082024/MultipleHeritence/Mother.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Aug/ex_04082024/MultipleHeritence/child.java" afterDir="false" />
+    <list default="true" id="7e547dce-11bf-4b90-8c23-c7c8ef74472c" name="Changes" comment="Hirarcial Inheritence example">
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_04082024/hasA/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_04082024/hasA/Tyres.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Aug/ex_04082024/hasA/car.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aug/ex_04082024/MultipleHeritence/child.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aug/ex_04082024/MultipleHeritence/child.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -275,14 +275,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721229594628</updated>
-    </task>
-    <task id="LOCAL-00096" summary="While Loop">
-      <option name="closed" value="true" />
-      <created>1722609586788</created>
-      <option name="number" value="00096" />
-      <option name="presentableId" value="LOCAL-00096" />
-      <option name="project" value="LOCAL" />
-      <updated>1722609586788</updated>
     </task>
     <task id="LOCAL-00097" summary="While Loop">
       <option name="closed" value="true" />
@@ -668,7 +660,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723906852164</updated>
     </task>
-    <option name="localTasksCounter" value="145" />
+    <task id="LOCAL-00145" summary="Hirarcial Inheritence example">
+      <option name="closed" value="true" />
+      <created>1723952971740</created>
+      <option name="number" value="00145" />
+      <option name="presentableId" value="LOCAL-00145" />
+      <option name="project" value="LOCAL" />
+      <updated>1723952971740</updated>
+    </task>
+    <option name="localTasksCounter" value="146" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -683,7 +683,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2d Array" />
     <MESSAGE value="String constant POol" />
     <MESSAGE value="String Builder ,String Buffer" />
     <MESSAGE value="Reverse a word Program" />
@@ -708,7 +707,8 @@
     <MESSAGE value="MultiinHeritance programming example" />
     <MESSAGE value="Real Examples" />
     <MESSAGE value="Hirarcial Inheritence" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hirarcial Inheritence" />
+    <MESSAGE value="Hirarcial Inheritence example" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hirarcial Inheritence example" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
