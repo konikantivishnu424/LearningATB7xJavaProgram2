@@ -5,66 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7e547dce-11bf-4b90-8c23-c7c8ef74472c" name="Changes" comment="practice">
-      <change afterPath="$PROJECT_DIR$/src/August/ex_18082024/Lab218.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August/ex_11082024/Lab186.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August/ex_11082024/excar/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August/ex_11082024/excar/GearBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August/ex_11082024/excar/Lab187.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August/ex_11082024/excar/Tesla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August/ex_11082024/excar/WagonR.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August/ex_11082024/excar/car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August/ex_11082024/excar/i10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August/ex_11082024/excar/keys.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Augest/AccessModifiers/Criminals/Thief.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/AccessModifiers/Criminals/Thief.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Augest/AccessModifiers/Lab176.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/AccessModifiers/Lab176.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Augest/AccessModifiers/police/Jrcop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/AccessModifiers/police/Jrcop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Augest/AccessModifiers/police/cop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/AccessModifiers/police/cop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Augest/AccessModifiers/police/vishnu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/AccessModifiers/police/vishnu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Augest/ex_04082024/ATBPerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_04082024/ATBPerson.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Augest/ex_04082024/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_04082024/BankAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Augest/ex_04082024/HirarcialInheritance/Damu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_04082024/HirarcialInheritance/Damu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Augest/ex_04082024/HirarcialInheritance/Father.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_04082024/HirarcialInheritance/Father.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Augest/ex_04082024/HirarcialInheritance/Hari.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_04082024/HirarcialInheritance/Hari.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Augest/ex_04082024/HirarcialInheritance/Lab175.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_04082024/HirarcialInheritance/Lab175.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Augest/ex_04082024/HirarcialInheritance/vishnu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_04082024/HirarcialInheritance/vishnu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Augest/ex_04082024/Lab162.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_04082024/Lab162.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Augest/ex_04082024/Lab163.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_04082024/Lab163.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Augest/ex_04082024/Lab164.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_04082024/Lab164.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Augest/ex_04082024/Lab165.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_04082024/Lab165.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Augest/ex_04082024/Lab166.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_04082024/Lab166.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Augest/ex_04082024/Lab167.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_04082024/Lab167.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Augest/ex_04082024/Lab168.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_04082024/Lab168.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Augest/ex_04082024/Lab169.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_04082024/Lab169.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Augest/ex_04082024/Lab170.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_04082024/Lab170.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Augest/ex_04082024/Lab171.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_04082024/Lab171.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Augest/ex_04082024/Lab173.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_04082024/Lab173.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Augest/ex_04082024/MultilevelInheritence/Father.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_04082024/MultilevelInheritence/Father.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Augest/ex_04082024/MultilevelInheritence/Grandfather.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_04082024/MultilevelInheritence/Grandfather.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Augest/ex_04082024/MultilevelInheritence/Lab174.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_04082024/MultilevelInheritence/Lab174.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Augest/ex_04082024/MultilevelInheritence/child.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_04082024/MultilevelInheritence/child.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Augest/ex_04082024/MultipleHeritence/Father.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_04082024/MultipleHeritence/Father.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Augest/ex_04082024/MultipleHeritence/Lab176.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_04082024/MultipleHeritence/Lab176.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Augest/ex_04082024/MultipleHeritence/Mother.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_04082024/MultipleHeritence/Mother.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Augest/ex_04082024/MultipleHeritence/child.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_04082024/MultipleHeritence/child.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Augest/ex_04082024/P1/car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_04082024/P1/car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Augest/ex_04082024/P2/car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_04082024/P2/car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Augest/ex_04082024/RealTime/Lab176.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_04082024/RealTime/Lab176.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Augest/ex_04082024/car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_04082024/car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Augest/ex_04082024/hasA/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_04082024/hasA/Engine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Augest/ex_04082024/hasA/Tyres.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_04082024/hasA/Tyres.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Augest/ex_04082024/hasA/car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_04082024/hasA/car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Augest/ex_04082024/hasA/isA/Tesla.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_04082024/hasA/isA/Tesla.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Augest/ex_04082024/person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_04082024/person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Augest/ex_04082024/singleheritence/Father.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_04082024/singleheritence/Father.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Augest/ex_04082024/singleheritence/Lab172.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_04082024/singleheritence/Lab172.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Augest/ex_04082024/singleheritence/ex/Programming.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_04082024/singleheritence/ex/Programming.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Augest/ex_04082024/singleheritence/ex/python.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_04082024/singleheritence/ex/python.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Augest/ex_04082024/singleheritence/real/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_04082024/singleheritence/real/BaseTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Augest/ex_04082024/singleheritence/real/GrandBaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_04082024/singleheritence/real/GrandBaseTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Augest/ex_04082024/singleheritence/real/Testcase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_04082024/singleheritence/real/Testcase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Augest/ex_04082024/singleheritence/real/Testcase2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_04082024/singleheritence/real/Testcase2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Augest/ex_04082024/singleheritence/son.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_04082024/singleheritence/son.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Augest/ex_10082024/Lab178.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_10082024/Lab178.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Augest/ex_10082024/Lab179.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_10082024/Lab179.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Augest/ex_10082024/Lab180.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_10082024/Lab180.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Augest/ex_10082024/VWOLoginpage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_10082024/VWOLoginpage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Augest/ex_11082024/practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_11082024/practice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Augest/ex_17082024/practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_17082024/practice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Augest/ex_18082024/practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_18082024/practice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Augest/ex_24082024/practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_24082024/practice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Augest/ex_25082024/practice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/August/ex_25082024/practice.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -224,6 +174,7 @@
     &quot;Application.Lab172.executor&quot;: &quot;Run&quot;,
     &quot;Application.Lab174.executor&quot;: &quot;Run&quot;,
     &quot;Application.Lab179.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lab187.executor&quot;: &quot;Run&quot;,
     &quot;Application.Lab90.executor&quot;: &quot;Run&quot;,
     &quot;Application.LabO25.executor&quot;: &quot;Run&quot;,
     &quot;Application.Labo56.executor&quot;: &quot;Run&quot;,
@@ -256,7 +207,7 @@
       <recent name="Augest.ex_10082024" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lab179">
+  <component name="RunManager" selected="Application.Lab187">
     <configuration name="Lab179" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="August.ex_10082024.Lab179" />
       <module name="LearningATB7xJavaProgram2" />
@@ -270,12 +221,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Thief" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="August.AccessModifiers.Criminals.Thief" />
+    <configuration name="Lab187" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="August.ex_11082024.excar.Lab187" />
       <module name="LearningATB7xJavaProgram2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="August.AccessModifiers.Criminals.*" />
+          <option name="PATTERN" value="August.ex_11082024.excar.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -324,11 +275,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Lab187" />
         <item itemvalue="Application.Lab179" />
         <item itemvalue="Application.print200numbers" />
         <item itemvalue="Application.print20numbers" />
         <item itemvalue="Application.add" />
-        <item itemvalue="Application.Thief" />
       </list>
     </recent_temporary>
   </component>
