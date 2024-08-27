@@ -4,16 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7e547dce-11bf-4b90-8c23-c7c8ef74472c" name="Changes" comment="practice">
-      <change afterPath="$PROJECT_DIR$/src/August/ex_11082024/Lab186.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August/ex_11082024/excar/Engine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August/ex_11082024/excar/GearBox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August/ex_11082024/excar/Lab187.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August/ex_11082024/excar/Tesla.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August/ex_11082024/excar/WagonR.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August/ex_11082024/excar/car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August/ex_11082024/excar/i10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/August/ex_11082024/excar/keys.java" afterDir="false" />
+    <list default="true" id="7e547dce-11bf-4b90-8c23-c7c8ef74472c" name="Changes" comment="Example of abstract">
+      <change afterPath="$PROJECT_DIR$/src/August/ex_11082024/exLoan/Father.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August/ex_11082024/exLoan/Lab188.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/August/ex_11082024/exLoan/son.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -291,14 +285,6 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1721229594628</updated>
-    </task>
-    <task id="LOCAL-00102" summary="Fizz Buzz Program">
-      <option name="closed" value="true" />
-      <created>1722610024125</created>
-      <option name="number" value="00102" />
-      <option name="presentableId" value="LOCAL-00102" />
-      <option name="project" value="LOCAL" />
-      <updated>1722610024125</updated>
     </task>
     <task id="LOCAL-00103" summary="max program">
       <option name="closed" value="true" />
@@ -684,7 +670,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724494694185</updated>
     </task>
-    <option name="localTasksCounter" value="151" />
+    <task id="LOCAL-00151" summary="Example of abstract">
+      <option name="closed" value="true" />
+      <created>1724731757440</created>
+      <option name="number" value="00151" />
+      <option name="presentableId" value="LOCAL-00151" />
+      <option name="project" value="LOCAL" />
+      <updated>1724731757441</updated>
+    </task>
+    <option name="localTasksCounter" value="152" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -699,7 +693,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Dog class and reference Creation Program" />
     <MESSAGE value="Animal Program" />
     <MESSAGE value="Dummy Program" />
     <MESSAGE value="Bank class and reference creation program" />
@@ -724,7 +717,8 @@
     <MESSAGE value="Real time" />
     <MESSAGE value="Access modifiers" />
     <MESSAGE value="practice" />
-    <option name="LAST_COMMIT_MESSAGE" value="practice" />
+    <MESSAGE value="Example of abstract" />
+    <option name="LAST_COMMIT_MESSAGE" value="Example of abstract" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
